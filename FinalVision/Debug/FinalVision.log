@@ -1,0 +1,132 @@
+﻿生成启动时间为 2014/11/21 13:10:19。
+     1>项目“C:\Users\Wuyu\Documents\我的文档\作业\编译大作业\FinalVision\FinalVision\FinalVision.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt C0Compiler.cpp
+         C0Compiler.cpp
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(111): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(113): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(120): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(129): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(132): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(455): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(466): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(497): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(508): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(605): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(607): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(530): warning C4101: “re”: 未引用的局部变量
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(587): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(557): warning C4101: “t”: 未引用的局部变量
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(646): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(648): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(670): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(656): warning C4101: “re”: 未引用的局部变量
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(732): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(755): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(757): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(718): warning C4101: “re”: 未引用的局部变量
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(737): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(912): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1041): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1043): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1110): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1122): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1124): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1292): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1290) : 忽略“i”的定义
+                 c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1265) : 使用“i”的定义
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1293): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1290) : 忽略“i”的定义
+                 c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1265) : 使用“i”的定义
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1294): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1290) : 忽略“i”的定义
+                 c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1265) : 使用“i”的定义
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1574): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1685): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1705): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1718): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1719): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1720): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1721): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1722): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1775): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1777): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1794): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1796): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1813): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1815): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1819): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1821): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1870): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1880): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1881): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1905): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1906): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1931): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1932): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1936): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1937): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1943): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1944): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1953): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1954): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1958): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1959): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1966): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1967): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1972): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1978): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1996): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1999): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(2006): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(2023): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(2037): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(2046): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(2128): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(2129): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(2132): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(297): warning C4715: “call”: 不是所有的控件路径都返回值
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(843): warning C4715: “find”: 不是所有的控件路径都返回值
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(814): warning C4715: “find”: 不是所有的控件路径都返回值
+     1>c:\users\wuyu\documents\我的文档\作业\编译大作业\finalvision\finalvision\c0compiler.cpp(1553): warning C4715: “getsyms”: 不是所有的控件路径都返回值
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Wuyu\Documents\我的文档\作业\编译大作业\FinalVision\Debug\FinalVision.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Wuyu\Documents\我的文档\作业\编译大作业\FinalVision\Debug\FinalVision.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Wuyu\Documents\我的文档\作业\编译大作业\FinalVision\Debug\FinalVision.lib" /MACHINE:X86 Debug\C0Compiler.obj
+         FinalVision.vcxproj -> C:\Users\Wuyu\Documents\我的文档\作业\编译大作业\FinalVision\Debug\FinalVision.exe
+     1>已完成生成项目“C:\Users\Wuyu\Documents\我的文档\作业\编译大作业\FinalVision\FinalVision\FinalVision.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.34
